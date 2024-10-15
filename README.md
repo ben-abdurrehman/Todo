@@ -1,8 +1,11 @@
-# React + Vite
+# Todo list tracker
+ 
+## A simple `Todo list tracker`, using `reactjs + vite`, and `tailwind`.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### You can  easily `download` this repo by going to the `code button`, after pressing it click on `Download zip`.
 
-Currently, two official plugins are available:
+### After `Downloading` it, open in `VS-code`, and run the <clipboard-copy for="blob-path">`npm run dev`</clipboard-copy> command in the terminal, and copy or manually type `[local](http://localhost:5173/)` your project start working.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Here is some representation of my `Todo list tracker` project.
+
+![Project `Todo list tracker` Screenshot](src/assets/Screenshot.png)
