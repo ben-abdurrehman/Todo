@@ -18,6 +18,6 @@ Run this Project copy it, and paste it into the browser url
 localhost:5173
 ```
 
-### Here is some representation of my `Avengers characters` project.
+### Here is some representation of my `Todo list tracker` project.
 
 ![Project `Todo list tracker` Screenshot](src/assets/Screenshot.png)
