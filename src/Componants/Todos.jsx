@@ -46,7 +46,7 @@ const Todos = () => {
             </div>
             <div className="w-full flex-col content-center items-center justify-center gap-5 pr-3 overflow-y-auto">
                 {toDO.map((items, index)=>(
-                    <TodosItems key={index} text={items.text} no={index+1} display={items.display} settoDO={settoDO}/>
+                    <TodosItems key={index} text={items.text} no={index+1} display={items.display} settoDO={settoDO} toDO={toDO}/>
                 ))}
             </div>
         </div>
